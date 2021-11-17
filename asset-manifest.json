@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/red-queen-race-project-4A/static/css/main.ff858863.chunk.css",
+    "main.js": "/red-queen-race-project-4A/static/js/main.24a65c26.chunk.js",
+    "main.js.map": "/red-queen-race-project-4A/static/js/main.24a65c26.chunk.js.map",
+    "runtime-main.js": "/red-queen-race-project-4A/static/js/runtime-main.bc144863.js",
+    "runtime-main.js.map": "/red-queen-race-project-4A/static/js/runtime-main.bc144863.js.map",
+    "static/js/2.169f86c5.chunk.js": "/red-queen-race-project-4A/static/js/2.169f86c5.chunk.js",
+    "static/js/2.169f86c5.chunk.js.map": "/red-queen-race-project-4A/static/js/2.169f86c5.chunk.js.map",
+    "static/js/3.3bf9a313.chunk.js": "/red-queen-race-project-4A/static/js/3.3bf9a313.chunk.js",
+    "static/js/3.3bf9a313.chunk.js.map": "/red-queen-race-project-4A/static/js/3.3bf9a313.chunk.js.map",
+    "index.html": "/red-queen-race-project-4A/index.html",
+    "static/css/main.ff858863.chunk.css.map": "/red-queen-race-project-4A/static/css/main.ff858863.chunk.css.map",
+    "static/js/2.169f86c5.chunk.js.LICENSE.txt": "/red-queen-race-project-4A/static/js/2.169f86c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc144863.js",
+    "static/js/2.169f86c5.chunk.js",
+    "static/css/main.ff858863.chunk.css",
+    "static/js/main.24a65c26.chunk.js"
+  ]
+}
